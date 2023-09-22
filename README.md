@@ -1,5 +1,3 @@
-Roll no. : 212222230116
-Name     : Ranjan K
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 
 ## Aim:
@@ -60,6 +58,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ## STM 32 CUBE PROGRAM :
 
 ```
+Roll no. : 212222230116
+Name     : Ranjan K
 #include "main.h"
 #include"stdbool.h"
 bool buttonstatus;
